@@ -7,7 +7,7 @@ Projet data science qui consiste en un modèle de prédiction des retards des vo
 
 
 
-Le projet Trip Report
+Le détails du projet 
 ------------------------
 
 ### Cadre du projet
